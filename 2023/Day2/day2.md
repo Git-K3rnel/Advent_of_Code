@@ -1,5 +1,6 @@
 ```python
 import json
+
 red_cubes = 12
 green_cubes = 13
 blue_cubes = 14

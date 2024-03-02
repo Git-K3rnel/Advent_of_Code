@@ -1,6 +1,8 @@
 # AOC-2023-Day1-Part2
 
 ```python
+import re
+
 initial_strings = [] #Put strings in this list
 
 string_numbers = ['1','2','3','4','5','6','7','8','9','one','two','three','four','five','six','seven','eight','nine']
@@ -54,3 +56,12 @@ def calculate_sum(fixed_list):
 fixed_list = make_correct_split()
 total_sum = calculate_sum(fixed_list)
 ```
+
+<details>
+  <summary><b>Answer</b></summary>
+    
+```text
+55701
+```
+
+</details>

@@ -1,1 +1,1 @@
-
+- [Part1/Part2](https://github.com/Git-K3rnel/Advent_of_Code/blob/main/2023/Day2/day2.md)

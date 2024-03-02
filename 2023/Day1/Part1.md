@@ -38,3 +38,12 @@ total_sum = calculate_sum(fixed_list)
 
 print(total_sum)
 ```
+
+
+<details>
+  <summary><b>Stabilize Shell</b></summary>
+
+  ```text
+56397
+  ```
+</details>

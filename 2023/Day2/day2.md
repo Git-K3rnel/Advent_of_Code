@@ -83,3 +83,15 @@ def part2():
 part1()
 part2()
 ```
+
+<details>
+  <summary><b>Answer</b></summary>
+
+  ```text
+Part1: 2348
+Part2: 76008
+  ```
+</details>
+
+
+
